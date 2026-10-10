@@ -16,7 +16,7 @@
 ### Блок-схема
 ![Блок-схема алгоритма](diagramma4.png) 
 
- [Вставьте ссылку на изображение вашей блок-схемы, созданной в draw.io^](# "как lab_2_schema.png")
+(https://github.com/uliases00/domashnya-4/blob/main/diagramma4.png)
 
 
 ## 2. Реализация программы
