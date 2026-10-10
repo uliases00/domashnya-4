@@ -21,12 +21,12 @@
 
 ## 2. Реализация программы
 
-#define _CRT_SECURE_NO_WARNINGS
-#include <stdio.h>
-#include <locale.h>
+#define _CRT_SECURE_NO_WARNINGS<br>
+#include <stdio.h><br>
+#include <locale.h><br>
 
-int main()
-{
+int main()<br>
+{<br>
 	setlocale(LC_CTYPE, ".UTF-8");
 
 	int A, B, C, D; //состояние датчиков (0 или 1)
@@ -43,7 +43,7 @@ int main()
 		printf("Запись выключена\n");
 	
 	return 0;
-}
+}<br>
 
 ## 3. Результаты работы программы
 
